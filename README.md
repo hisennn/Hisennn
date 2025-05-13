@@ -1,6 +1,6 @@
 ## Olá! Sou Gabriel
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Hisennn&show_icons=true&theme=radical)
 
