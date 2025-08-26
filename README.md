@@ -1,5 +1,5 @@
 ## Hello, I'm Gabriel.
-Ruby on Rails student.
+Web Dev student.
 
 ##
 
