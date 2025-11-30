@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="32px">
 
-I'm **Gabriel**, a Frontend Developer based in Brazil.
+I'm **Gabriel**, a Web Developer based in Brazil.
 
 I focus on building functional and responsive web applications.
 
