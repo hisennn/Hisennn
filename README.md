@@ -9,7 +9,7 @@ My main tool is **Next.js**, while I'm also diving into **Node.js** to become a 
 **Skills:**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,postgres,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,figma,git,github,postgres,supabase,prisma&theme=dark" />
 </a>
 <br><br>
 
