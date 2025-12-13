@@ -1,10 +1,13 @@
 # Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="32px">
 
-I'm **Gabriel**, a Web Developer based in Brazil.
+I'm **Gabriel**.
 
-I focus on building functional and responsive web applications.
-
-My main tool is **Next.js**, while I'm also diving into **Node.js** to become a Fullstack developer.
+```diff
++ Using Next.js and studying Node.js
+- SP, Brazil
+! Interested in Web Development
+# I focus on building functional and responsive web applications.
+```
 
 **Skills:**
 
