@@ -12,7 +12,7 @@ I'm **Gabriel**.
 **Skills:**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,cloudflare,figma,git,github,postgres,supabase,prisma,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,cloudflare,figma,postgres,supabase,prisma,npm,git,github,notion&theme=dark" />
 </a>
 <br><br>
 
