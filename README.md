@@ -2,12 +2,10 @@
 
 I'm **Gabriel**.
 
-```diff
-+ Using Next.js and studying Node.js
-- SP, Brazil
-! Interested in Web Development
-# I focus on building functional and responsive web applications.
-```
+Web developer from Brazil.
+I make websites and small web apps.
+Mostly using React, Next.js, TypeScript, and Node.js.
+
 
 **Skills:**
 
