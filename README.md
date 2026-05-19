@@ -10,7 +10,7 @@ Mostly using React, Next.js, TypeScript, and Node.js.
 **Skills:**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,tailwindcss,typescript,react,nodejs,nextjs,astro,remix,npm,bun,postgresql,supabase,vercel,cloudflare,git,figma&theme=dark&perline=15" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=javascript,tailwindcss,react,typescript,nodejs,nextjs,astro,remix,npm,bun,postgresql,supabase,vercel,cloudflare,git,figma&theme=dark&perline=15" alt="My Skills" />
 </a>
 <br><br>
 
