@@ -2,7 +2,7 @@
 
 I'm **Gabriel**.
 
-Web developer from Brazil.<br>
+Full stack web developer from Brazil.<br>
 I make websites and small web apps.<br>
 Mostly using React, Next.js, TypeScript, and Node.js.
 
