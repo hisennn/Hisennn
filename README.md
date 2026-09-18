@@ -2,10 +2,7 @@
 
 I'm **Gabriel**.
 
-Full stack web developer from Brazil.<br>
-I make websites and small web apps.<br>
-Mostly using React, Next.js, TypeScript, and Node.js.
-
+Full stack developer who builds and maintains websites, applications, and internal systems for businesses and professionals. My work covers user interfaces, database management, integration, and deployment.
 
 **Skills:**
 
